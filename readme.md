@@ -47,7 +47,7 @@ mvn spring-boot:run
 ### 3. Acesse o H2 Console
 
 - URL: [http://localhost:8081/h2-console](http://localhost:8081/h2-console)
-- JDBC URL: `jdbc:h2:mem:testdb`
+- JDBC URL: `jdbc:h2:mem:questoesdb`
 - User: `sa`
 - Password: *(deixe em branco)*
 
