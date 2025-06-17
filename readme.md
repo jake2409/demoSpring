@@ -29,7 +29,7 @@ Este projeto é uma API REST para gerenciamento de questões e respostas com aut
 
 ```bash
 git clone https://github.com/jake2409/demoSpring.git
-cd demo
+cd demoSpring
 ```
 
 ### 2. Compile e rode a aplicação com Maven
