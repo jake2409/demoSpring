@@ -28,7 +28,7 @@ Este projeto é uma API REST para gerenciamento de questões e respostas com aut
 ### 1. Clone o repositório
 
 ```bash
-git clone [<url-do-repositorio>](https://github.com/jake2409/demoSpring.git)
+git clone https://github.com/jake2409/demoSpring.git
 cd demo
 ```
 
