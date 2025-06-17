@@ -46,7 +46,7 @@ mvn spring-boot:run
 
 ### 3. Acesse o H2 Console
 
-- URL: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+- URL: [http://localhost:8081/h2-console](http://localhost:8081/h2-console)
 - JDBC URL: `jdbc:h2:mem:testdb`
 - User: `sa`
 - Password: *(deixe em branco)*
@@ -133,6 +133,6 @@ E no corpo da requisição, segue alguns exemplos que pode enviar:
 
 Acesse em:
 
-- [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+- [http://localhost:8081/swagger-ui.html](http://localhost:8081/swagger-ui.html)
 - ou
-- [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+- [http://localhost:8081/swagger-ui/index.html](http://localhost:8081/swagger-ui/index.html)
