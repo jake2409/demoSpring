@@ -1,0 +1,8 @@
+com\example\demo\dto\QuestaoDTO.class
+com\example\demo\controller\QuestaoController.class
+com\example\demo\DemoApplication.class
+com\example\demo\service\QuestaoService.class
+com\example\demo\dao\QuestaoRepository.class
+com\example\demo\model\Questao.class
+com\example\demo\service\facade\QuestaoFacade.class
+com\example\demo\factory\QuestaoFactory.class
